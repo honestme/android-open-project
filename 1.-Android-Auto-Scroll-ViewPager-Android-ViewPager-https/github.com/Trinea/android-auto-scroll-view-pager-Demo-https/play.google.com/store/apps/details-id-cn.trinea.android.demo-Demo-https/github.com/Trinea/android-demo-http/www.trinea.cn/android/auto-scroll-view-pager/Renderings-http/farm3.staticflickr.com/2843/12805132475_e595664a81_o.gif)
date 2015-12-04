@@ -1,0 +1,4 @@
+1. philm
+一个展示电影信息的app，使用的是mvp模式，并且添加了一些额外的东西，如display，state等
+项目地址：https://github.com/philm/philm
+项目分析：http://www.lightskystreet.com/2015/02/10/philm_mvp/  
